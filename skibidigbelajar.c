@@ -7,7 +7,6 @@
 // 1.Struktur data untuk produk
 typedef struct {
     char nama[50];
- 
     int harga;
     int jumlah;
     int total_harga;
